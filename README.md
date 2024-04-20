@@ -1,5 +1,5 @@
 
-![Header](./banner.png)
+![Header](./banner1.png)
 
 ### Hi there 👋 I 'M CHAMOD DESHAN 
 
